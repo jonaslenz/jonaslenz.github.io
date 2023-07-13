@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+landing-title: 'SoilPulse'
+description: 'We are a NFDI4Earth Pilot for Reusable Soil Process Data'
 image: null
 author: null
 show_tile: false
