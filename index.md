@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Welcome to SoilPulse.'
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+We seek to facilitate interoperability and reusability of soil functional data. Such data are essential to further the understanding of the complex and nonlinearly interacting land surface system -- and these data are highly diverse, because of scale and spatio-temporal dependency, model specific demands and a varitey of analytical procedures. SoilPulse will integrate and extend current (meta)data standards. We will develop tools to guide users and to enable machine-readable data structures with automated tests for interoperability and reusability.

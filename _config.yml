@@ -6,16 +6,16 @@ description: Make various data about soil processes interoperable<br /> while ma
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: TU Bergakademie Freiberg, Flow and Transport Modelling Group, Agricolastr. 22
+city: Freiberg
+state: 
+zip_code: 09599
+country: Germany
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 5
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands

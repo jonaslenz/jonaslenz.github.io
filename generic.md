@@ -1,13 +1,19 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: Description of the Pilot
+description: Proposed solution to data-challenge
+image: assets/images/soilpulse_scheme.png
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+### What is the proposed solution to your data-challenge?
+Interoperability of existing and new datasets will be ensured by mapping their structure to a metadata standard, guided by the SoilPulse metadata generator. Curation overhead for researchers is minimized as they can maintain their established data structures and reuse mapping templates. The metadata standard will build upon existing standards and extend it for functional soil process analyses, in which we consider the experience from NFDI4Earth Pilot "Interoperability and Reusability of Geoscientific Lab Data" in semantic mapping. Interoperability and reusability of the data will be demonstrated with automated tests, which implies that datasets can be standardized linked to earth system models.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+### What is the technological backbone you rely upon?
+SoilPulse assists metadata generation and API-assisted upload for new and existing datasets through an open R/python-package and with a web app frontend, strongly extending current MetaEditors. It will be publicly documented and hosted on GitHub. To improve findability of interoperable SoilPulse datasets, they will be listed by DOIs in the GitHub repo. A metadata-tag in the dataset linking to SoilPulse is foreseen. Defined FAIR MI tests and the automatic generation of human-readable reports will test data set interoperability and reusability.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+### Which are the standards and interoperability approaches used in the pilot’s context?
+The semantically interoperable SoilPulse metadata standard will build upon existing standards (e.g. BONARES; ISCN, building on INSPIRE and Dublin Core), vocabularies (e.g. AGROVOC, upcoming GAIA Data GO FAIR) and data harmonization approaches (e.g. SoDaH; ESIP).
+
+### Which improvements are made compared to the status quo?
+Interoperability of data repositories will be ensured by mapping their individual data structures to common vocabulary and metadata standards. Automated reusability tests will be developed. Data curation effort for individual researchers will be reduced through guided metadata generation and the ability to retain their established data structure and workflows.
