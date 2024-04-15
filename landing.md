@@ -1,8 +1,8 @@
 ---
 title: SoilPulse @EGU 2024
-layout: landing
+layout: post
 description: SoilPulse is on EGU2024!
-image: assets/images/brilliant_blue.png
+image: assets/images/template_egu24_logo.svg
 nav-menu: true
 ---
 
