@@ -15,13 +15,13 @@ Come and see the **poster in session EOS4.7** - Sharing data, tools, and knowled
 
 **SoilPulse – A software package for semi-automated metadata management and publication**
 
-https://meetingorganizer.copernicus.org/EGU24/EGU24-18775.html
+[https://meetingorganizer.copernicus.org/EGU24/EGU24-18775.html](https://meetingorganizer.copernicus.org/EGU24/EGU24-18775.html)
 
 Or join us for the **PICO at session SSS2.2** - Modelling soil erosion process from crop fields to hillslope: trends and perspectives under global change
 
 **SoilPulse – Towards FAIR soil process data!**
 
-https://meetingorganizer.copernicus.org/EGU24/EGU24-19497.html
+[https://meetingorganizer.copernicus.org/EGU24/EGU24-19497.html](https://meetingorganizer.copernicus.org/EGU24/EGU24-19497.html)
 
-You can also test the demonstrator of SoilPulse functionality for EGU at https://soilpulse-egu.streamlit.app
+You can also test the demonstrator of SoilPulse functionality for EGU at [https://soilpulse-egu.streamlit.app](https://soilpulse-egu.streamlit.app)
 
