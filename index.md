@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome to SoilPulse.'
+landing-title: 'Welcome to SoilPulse. A NFDI4Earth Data Pilot Project.'
 description: null
 image: null
 author: null
