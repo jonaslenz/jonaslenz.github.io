@@ -1,15 +1,15 @@
 ---
-title: SoilPulse @EGU 2024
+title: SoilPulse at EGU2024
 layout: post
-description: SoilPulse is on EGU2024!
+description: We presented our achievements with a poster and a Pico.
 image: assets/images/template_egu24_logo.svg
 nav-menu: true
 ---
 
-### Why and where we are @EGU
-We're happy to be part of the EGU General Assembly 2024. Especially because such a gathering of scientist always raises the urge to share data - and almost always brings a little dissapointment afterwards because it's either impossible or paid-off by the immense price of spending countless hours on restructuring the data to 'fit in'.
+### Why and where we are @EGU24
+We're happy to be part of the EGU General Assembly 2024. Especially as such a gathering of scientists always fuels the urge to share data - and almost always comes with a bit of disappointment afterwards, as it's either impossible or comes at the immense cost of spending countless hours restructuring the data to 'fit in'.
 
-But SoilPulse is here to change this (or at least we'll try)! Machine-generated and human-supervised framework for metadata generation is here to change the way you think about 'meta' in your data.
+But SoilPulse is here to change that (or at least we're trying)! A machine-generated and human-supervised metadata generation framework is here to change the way you think about the 'meta' in your data.
 
 Come and see the **poster in session EOS4.7** - Sharing data, tools, and knowledge: resources and initiatives
 
