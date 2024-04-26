@@ -2,6 +2,7 @@
 layout: post
 title: Description of the Pilot
 description: Proposed solution to data-challenge
+image: assets/images/soilpulse_scheme.png
 nav-menu: true
 ---
 
