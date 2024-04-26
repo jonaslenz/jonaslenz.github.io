@@ -19,7 +19,7 @@ Come and see the **poster in session EOS4.7** - Sharing data, tools, and knowled
 
 Or join us for the **PICO at session SSS2.2** - Modelling soil erosion process from crop fields to hillslope: trends and perspectives under global change
 
-**SoilPulse – Towards FAIR soil process data!**
+**SoilPulse – Towards FAIR soil process data!** [download presentation](assets/downloads/SoilPulse_EGU2024_JL.pdf)
 
 [https://meetingorganizer.copernicus.org/EGU24/EGU24-19497.html](https://meetingorganizer.copernicus.org/EGU24/EGU24-19497.html)
 
