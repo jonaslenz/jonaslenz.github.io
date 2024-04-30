@@ -13,13 +13,13 @@ But SoilPulse is here to change that (or at least we're trying)! A machine-gener
 
 Come and see the **poster in session EOS4.7** - Sharing data, tools, and knowledge: resources and initiatives
 
-**SoilPulse – A software package for semi-automated metadata management and publication**
+**SoilPulse – A software package for semi-automated metadata management and publication [download presentation](assets/downloads/EGU_2024_poster.pdf)**
 
 [https://meetingorganizer.copernicus.org/EGU24/EGU24-18775.html](https://meetingorganizer.copernicus.org/EGU24/EGU24-18775.html)
 
 Or join us for the **PICO at session SSS2.2** - Modelling soil erosion process from crop fields to hillslope: trends and perspectives under global change
 
-**SoilPulse – Towards FAIR soil process data!** [download presentation](assets/downloads/SoilPulse_EGU2024_JL.pdf)
+**SoilPulse – Towards FAIR soil process data! [download presentation](assets/downloads/SoilPulse_EGU2024_JL.pdf)**
 
 [https://meetingorganizer.copernicus.org/EGU24/EGU24-19497.html](https://meetingorganizer.copernicus.org/EGU24/EGU24-19497.html)
 
