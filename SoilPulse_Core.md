@@ -8,7 +8,7 @@ nav-menu: true
 
 ## Purpose
 SoilPulse Core was developed to give a intial gues on the structure of a dataset (provided as file or by URL or DOI) and to assign relevant metadata.
-Therein SoilPulse Core makes use of the [frictionless table schema](https://specs.frictionlessdata.io/table-schema/) and [frictionless py](https://github.com/frictionlessdata/frictionless-py) to utilize those validation and transformation capabilities.
+Therein SoilPulse Core makes use of [frictionless](frictionless.html) to utilize those validation and transformation capabilities.
 
 ### Machine readability
 A convienient way is to document  data in a self defined structure (e.g. spreading values across an Excel sheet).
@@ -30,3 +30,12 @@ Depending on the specific research question the method applied to measure a para
 
 We found that the two data providing platforms [Bonares repository](https://maps.bonares.de/mapapps/resources/apps/bonares/index.html) and [pangaea](https://www.pangaea.de/) are allready using these three metadata information in their metadata schemas.
 Pangaea does even allow to search for and query data across datasets by an applied method or defined parameter by a [data warehouse](https://www.pangaea.de/tools/).
+
+
+### Application examples
+You can explore functionalities of SoilPulse core in these examples:
+- [Load data by DOI]()
+- [Load data by URL]()
+- [Provide own file]()
+- [Preparing a user defined mapping of Concept, Unit, Method]()
+- [Create a machine readable dataset from your primary data]()
