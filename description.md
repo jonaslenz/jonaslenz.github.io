@@ -6,6 +6,10 @@ image: assets/images/soilpulse_scheme.png
 nav-menu: true
 ---
 
+## Description
+
+This site shows the essence of our project proposal, the full proposal is available [here](https://nfdi4earth.de/images/362_SoilPulse.pdf)
+
 ### What is the data challenge of the pilot?
 Soil process data, like data from rainfall simulation experiments for erosion studies combine several aspects of common hindrance for FAIR data in earth system sciences.
 Despite them being of central importance to develop mitigation strategies against soil degradation, such experiments are very specific to the needs and tools of the respective working groups.
@@ -36,3 +40,20 @@ The semantically interoperable SoilPulse metadata standard will build upon exist
 Interoperability of data repositories will be ensured by mapping their individual data structures to common vocabulary and metadata standards.
 Automated reusability tests will be developed.
 Data curation effort for individual researchers will be reduced through guided metadata generation and the ability to retain their established data structure and workflows.
+
+## Pilot's flight table
+### Starting Point
+We seek to facilitate interoperability and reusability of soil functional data. Such data are essential to further the understanding of the complex and nonlinearly interacting land surface system -- and these data are highly diverse, because of scale and spatio-temporal dependency, model specific demands and a varitey of analytical procedures. SoilPulse will integrate and extend current (meta)data standards. We will develop tools to guide users and to enable machine-readable data structures with automated tests for interoperability and reusability.
+
+### Deliverables
+#### Technical operability of the pilot
+1. A metadata generator guides researchers to the creation of reusable data sets in a webapp.
+2. Automatic tests for reusability, including automatic generation of human readable reports of the data sets.
+3. SoilPulse metadata standard definition, which refers to existing standards.
+
+#### Material or actions for dissemination of knowledge/data
+1. R/python package and documentation as entry point and demonstrator for the metadata generation on the example of data sets from several erosion research groups.
+2. Documented demonstration of data reusability in automatically generated machine and human readable reports or coupling to earth process models.
+
+#### Roadmap document for the community
+The roadmap “SoilPulse+” projects how the pilot’s development can be extended to other soil functions and processes and showcase the coupling of reusable data with earth system models.
