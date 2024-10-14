@@ -6,7 +6,7 @@ image:
 nav-menu: true
 ---
 
-## TUBAF data
+## [TUBAF data](#tubaf) 
 
 The data from several experimental campaigns of the [TU Bergakademie Freiberg (TUBAF)](https://tu-freiberg.de/fakult3/ibf/bodenphysik-und-oekohydrologie) was curated within a dissertation thesis and is available in differing data structures from the zenodo publication [10.5281/zenodo.6654150](https://doi.org/10.5281/zenodo.6654150).
 
@@ -15,7 +15,7 @@ The data from several experimental campaigns of the [TU Bergakademie Freiberg (T
 - A pipeline was created to transform the data in a machine readable data structure
 
  
-## SWIG
+## [SWIG](#swig]
 
 [10.1594/PANGAEA.885492](https://doi.pangaea.de/10.1594/PANGAEA.885492)
 It comes in tabular form in csv files and alternatively in a single multi sheet xlsx.
@@ -26,8 +26,8 @@ Needs transformation step.table_melt() which is very resource intensive for >500
 Correct joining of time with infiltration_volume could not be realized by now (position within sheet references from on table to the other)
 Misses runoff measurements (so it is not in scope of cross data set query 1)
 
-## Ries Data
+## [Ries Data](#ries)
 
 [Ries et. al.](https://doi.org/10.6094/UNIFR/151460) preparation in progress…
 
-## CTU data dump
+## [CTU data dump](#ctu)
