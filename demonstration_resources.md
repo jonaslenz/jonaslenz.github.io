@@ -15,7 +15,7 @@ The data from several experimental campaigns of the [TU Bergakademie Freiberg (T
 - A pipeline was created to transform the data in a machine readable data structure
 
  
-## [SWIG](#swig]
+## [SWIG](#swig)
 
 [10.1594/PANGAEA.885492](https://doi.pangaea.de/10.1594/PANGAEA.885492)
 It comes in tabular form in csv files and alternatively in a single multi sheet xlsx.
