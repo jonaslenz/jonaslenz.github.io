@@ -10,6 +10,8 @@ nav-menu: true
 
 This site shows the essence of our project proposal, the full proposal is available [here](https://nfdi4earth.de/images/362_SoilPulse.pdf)
 
+You can also learn more on [NFDI4Earth pilots](https://www.nfdi4earth.de/2participate/pilots).
+
 ### What is the data challenge of the pilot?
 Soil process data, like data from rainfall simulation experiments for erosion studies combine several aspects of common hindrance for FAIR data in earth system sciences.
 Despite them being of central importance to develop mitigation strategies against soil degradation, such experiments are very specific to the needs and tools of the respective working groups.
