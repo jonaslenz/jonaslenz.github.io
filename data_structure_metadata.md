@@ -5,8 +5,8 @@ To know what a value within the table actually means, one must interpret metadat
 The column header gives information on the documented parameter, e.g. the abbreviation "TOC" in the column header can mean "total organic carbon, measured by a laboratory combustion method in weight-percentage".
 This actual meaning can be documented within:
  - the table in additional header, or comment rows (e.g. example RIES, SWIG),
- - an additional document, e.g. an pdf report (e.g. example LENZ and SEIBERT), or
- - in formalized structures (e.g. table metadata in example for Bonares metadata, [example for pangaea metadata](https://doi.pangaea.de/10.1594/PANGAEA.971025) or [frictionless table schema](https://specs.frictionlessdata.io//table-schema/)).
+ - additional unstructured documents, e.g. an pdf report (e.g. example LENZ and SEIBERT), or
+ - in formalized structures as provided by data hosting repositories like Bonares and pangaea (details see below) or in metadata files [frictionless table schema](https://specs.frictionlessdata.io//table-schema/)).
 
 The position of a value in relation to other columns is relational metadata, so all values within one row usually belong to one single observation or event, which is uniquely identified by a primary key.
 This primary key can be a single column, e.g. the ID of an experiment or observation, or can be a combination of multiple columns, e.g. a time stamp in addition to the experiment ID.
@@ -22,8 +22,8 @@ Within SoilPulse we applied the fricionless table schema to document table metad
 
 ## Pangaea schema / metadata
 
-Pangaea holds for every table column the parameter name, its abbreviation, Unit and a pangaea internal ID out of a [provided list of parameters](https://www.pangaea.de/lists/parameter/all-byname), so data can be queried across data sets within pangaea.
-This metadata is provided graphically when [displaying a record of pangaea at the website](https://doi.pangaea.de/10.1594/PANGAEA.937089) and is provided with the [downloadable data file](https://doi.pangaea.de/10.1594/PANGAEA.937089?format=textfile).
+Pangaea holds for every table column the parameter name, its abbreviation, unit and a pangaea internal ID out of a [provided list of parameters](https://www.pangaea.de/lists/parameter/all-byname), so data can be queried across data sets within pangaea.
+This metadata is provided graphically in a table when [displaying a record of pangaea at the website](https://doi.pangaea.de/10.1594/PANGAEA.937089) and is provided with the [downloadable data file](https://doi.pangaea.de/10.1594/PANGAEA.937089?format=textfile).
 The column headers can be shown as "variableMeasured" in the [Knowledgehub](https://cordra.knowledgehub.nfdi4earth.de/objects/n4e/dthb-oai-pangaea.de-doi-10.1594-PANGAEA.937089) and as "subjects" at [datacite](https://api.datacite.org/dois/10.1594/PANGAEA.937089). 
 The knowledgehub provides the distribution URL to the actual data file, while datacite references only to the pangaea landing page of the record.
 
