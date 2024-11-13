@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SoilPulse keeps going
-description: Advance exisiting metadata scheme, facilitate easy adaption to existing (and future) soil erosion data, provide quality control tools.
+description: End of SoilPulse pilot phase
 image: assets/images/people-2584206_640.jpg
 nav-menu: true
 ---
