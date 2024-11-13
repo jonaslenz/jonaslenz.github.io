@@ -1,8 +1,8 @@
 ---
 layout: post
-title: SoilPulse Workflow
+title: SoilPulse keeps going
 description: Advance exisiting metadata scheme, facilitate easy adaption to existing (and future) soil erosion data, provide quality control tools.
-image:
+image: assets/images/people-2584206_640.jpg
 nav-menu: true
 ---
 
